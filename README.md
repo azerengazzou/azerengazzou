@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azerengazzou&label=Profile%20views&color=0e75b6&style=flat" alt="azerengazzou" /> </p>
 
-- 📫 How to reach me **engazzouazer1@gmail.com** or on my personal website [**azerengazzou.epizy.com**](https://azerengazzou.epizy.com/)
+- 📫 How to reach me **engazzouazer1@gmail.com** or on my personal website [**azerengazzou.netlify.com**](https://azerengazzou.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
