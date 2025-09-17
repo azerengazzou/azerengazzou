@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Azer Engazzou</h1>
-<h3 align="center">A passionate FullStack web developer from Tunisia!</h3>
+<h1 align="center">Hello, I'm Azer Engazzou</h1>
+<h3 align="center">Full Stack Developer | Computer Engineer | Building Scalable, High-Performance Solutions with .NET, React & Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azerengazzou&label=Profile%20views&color=0e75b6&style=flat" alt="azerengazzou" /> </p>
 
